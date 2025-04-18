@@ -3,16 +3,24 @@ I’m currently learning C++ and Unreal Engine
 
 ## Skills and technologies that I use
   Languages (in descending order of comprehension): C++, C#, Python
+  
   IDE: VISUAL STUDIO
+  
   Interfaces: QT
+  
   Databases: POSTGRES, SQL
+  
   Graphics Engines: Unreal Engine
+  
   Assembly automation system: CMAKE
+  
   Other instruments: GIT
+  
   Additional libraries C++: SFML, BOOST
 
 ## Contacts
 - Email: [maestro8701@gmail.com](maestro8701@gmail.com)
+- Telegram: [@Apokalypse0](@Apokalypse0)
 
 
 <!--
