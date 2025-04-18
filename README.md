@@ -1,7 +1,7 @@
 ## Hi, I'm Evgeny, a developer C++, C#
 I’m currently learning C++ and Unreal Engine
 
-## Skills and technologies that I use
+## Instruments and Technologies that I use
   Languages (in descending order of comprehension): C++, C#, Python
   
   IDE: VISUAL STUDIO
