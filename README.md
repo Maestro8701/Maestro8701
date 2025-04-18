@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I'm Evgeny, a developer C++, C#
+
+Some information about me:
 
 <!--
 **Maestro8701/Maestro8701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
