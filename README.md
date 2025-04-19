@@ -1,5 +1,7 @@
 ## Hi, I'm Evgeny, a developer C++, C#
-I’m currently learning C++ and Unreal Engine
+I graduated from the educational program at Yandex Practicum as a C++ developer. He also completed a course on C# academic campus
+I live in Novosibirsk.
+I’m currently polishing C++ and С# and learning Unreal Engine
 
 ## Instruments and Technologies that I use
   Languages (in descending order of comprehension): C++, C#, Python
@@ -14,7 +16,7 @@ I’m currently learning C++ and Unreal Engine
   
   Assembly automation system: CMAKE
   
-  Other instruments: GIT
+  Other instruments: GIT, UML
   
   Additional libraries C++: SFML, BOOST
 
