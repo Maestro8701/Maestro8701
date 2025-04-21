@@ -1,3 +1,4 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=02FAFD&center=true&width=435&lines=Hi%2C+I'm+Evgeny" alt="Typing SVG" /></a>
 ## Hi, I'm Evgeny, a developer C++, C#
 I graduated from the educational program at Yandex Practicum as a C++ developer. He also completed a course on C# academic campus
 I live in Novosibirsk.
