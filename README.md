@@ -1,12 +1,12 @@
 На странице постоянно ведутся в данный момент улучшения поэтому она может выглядеть не так как бы хотелось бы в данный момент
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E44FD&background=FF8B3A00&center=true&width=870&height=100&lines=Hi%2C+I'm+Evgeny" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E44FD&background=FF8B3A00&center=true&width=870&height=100&lines=Hi%2C+Привет+я+Евгений" alt="Typing SVG" />
 </a>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&background=FF8B3A00&center=true&width=870&height=100&lines=Welcome+to+my+profile" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&background=FF8B3A00&center=true&width=870&height=100&lines=Добро+пожаловать+в+мой+профиль" alt="Typing SVG" />
 </a>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&background=FF8B3A00&center=true&width=870&height=100&lines=Let's+code+together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&background=FF8B3A00&center=true&width=870&height=100&lines=Давай+кодировать+вместе!" alt="Typing SVG" />
 </a>
 ## I developer C++, C#
 I graduated from the educational program at Yandex Practicum as a C++ developer. He also completed a course on C# academic campus
