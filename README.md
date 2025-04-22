@@ -1,5 +1,5 @@
  На странице постоянно ведутся в данный момент улучшения поэтому она может выглядеть не так как бы хотелось бы в данный момент
-[![Привет я Евгений](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E44FD&background=FF8B3A00&center=true&width=870&height=100&lines=Hi%2C+Привет+я+Евгений)](https://git.io/typing-svg)
+[![Привет я Евгений](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E44FD&background=FF8B3A00&center=true&width=870&height=100&lines=Привет+я+Евгений)](https://git.io/typing-svg)
 
 [![Добро пожаловать в мой профиль](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&background=FF8B3A00&center=true&width=870&height=100&lines=Добро+пожаловать+в+мой+профиль)](https://git.io/typing-svg)
 
