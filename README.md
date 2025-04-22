@@ -1,4 +1,4 @@
-На странице постоянно ведутся в данный момент улучшения поэтому она может выглядеть не так как бы хотелось бы в данный момент
+ На странице постоянно ведутся в данный момент улучшения поэтому она может выглядеть не так как бы хотелось бы в данный момент
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E44FD&background=FF8B3A00&center=true&width=870&height=100&lines=Hi%2C+Привет+я+Евгений" alt="Typing SVG" />
 </a>
