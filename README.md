@@ -4,27 +4,27 @@
 [![Добро пожаловать в мой профиль](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&background=FF8B3A00&center=true&width=870&height=100&lines=Добро+пожаловать+в+мой+профиль)](https://git.io/typing-svg)
 
 [![Давай кодировать вместе!](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&background=FF8B3A00&center=true&width=870&height=100&lines=Давай+кодировать+вместе!)](https://git.io/typing-svg)
-## I developer C++, C#
-I graduated from the educational program at Yandex Practicum as a C++ developer. He also completed a course on C# academic campus
-I live in Novosibirsk.
-I’m currently polishing C++ and С# and learning Unreal Engine
+## Я разработчик на C++, C#
+Я окончил образовательную программу в Яндекс Практикуме по направлению C++ разработчик. Также прошел курс по C# в академическом кампусе.
+Живу в Новосибирске.
+Сейчас я полирую свои навыки в C++ и C# до блеска, а также изучаю Unreal Engine.
 
-## Instruments and Technologies that I use
-  Languages (in descending order of comprehension): C++, C#, Python
-  
-  IDE: VISUAL STUDIO
-  
-  Interfaces: QT
-  
-  Databases: POSTGRES, SQL
-  
-  Graphics Engines: Unreal Engine
-  
-  Assembly automation system: CMAKE
-  
-  Other instruments: GIT, UML
-  
-  Additional libraries C++: SFML, BOOST
+## Инструменты и технологии, которые я использую
+Языки программирования (в порядке убывания уровня владения): C++, C#, Python
+
+Среда разработки: Visual Studio
+
+Интерфейсы: QT
+
+Базы данных: PostgreSQL, SQL
+
+Графические движки: Unreal Engine
+
+Система автоматизации сборки: CMake
+
+Другие инструменты: Git, UML
+
+Дополнительные библиотеки C++: SFML, Boost
 
 ## Contacts
 - Email: [maestro8701@gmail.com](maestro8701@gmail.com)
