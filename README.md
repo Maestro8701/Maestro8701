@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E44FD&background=FF8B3A00&center=true&width=870&height=100&lines=Hi%2C+I'm+Evgeny" alt="Typing SVG" /></a>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&background=FF8B3A00&center=true&width=870&height=100&lines=Hi%2C+I'm+Evgeny;Welcome+to+my+profile;Let's+code+together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&background=FF8B3A00&center=true&width=870&height=100&lines=Welcome+to+my+profile;Let's+code+together!" alt="Typing SVG" />
 </a>
 ## I developer C++, C#
 I graduated from the educational program at Yandex Practicum as a C++ developer. He also completed a course on C# academic campus
