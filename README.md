@@ -26,9 +26,12 @@
 
 Дополнительные библиотеки C++: SFML, Boost
 
-## Contacts
-- Email: [maestro8701@gmail.com](maestro8701@gmail.com)
-- Telegram: [@Apokalypse0](@Apokalypse0)
+## Контакты
+- Почта: [maestro8701@gmail.com](maestro8701@gmail.com)
+- Телеграмм: [@Apokalypse0](@Apokalypse0)
+
+## Примеры моих работ
+[Приложение WinForms с периодичностью в 5 секунд асинхронно получает курсы выбранной пары на разных биржах и выведит их в главном окне приложения](https://youtu.be/N685u4717Wc)
 
 
 <!--
