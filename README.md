@@ -10,7 +10,7 @@
 ## Инструменты и технологии, которые я использую
 Языки программирования (в порядке убывания уровня владения): С++, С#, Python <br> 
 <img src="https://github.com/Maestro8701/Maestro8701/blob/main/%D0%A1++.png?raw=true" alt="C++"> <img src="https://github.com/Maestro8701/Maestro8701/blob/main/C%23.png?raw=true" alt="C#"> <img src="https://github.com/Maestro8701/Maestro8701/blob/main/Python.png" alt="Python"> <br>
-Среда разработки: <br> 
+Среда разработки: Visual Studio <br> 
 <img src="https://github.com/Maestro8701/Maestro8701/blob/main/visual_studio.png" alt="Visual Studio"> <br>
 Интерфейсы: QT
 
