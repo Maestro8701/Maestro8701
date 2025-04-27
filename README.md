@@ -17,7 +17,8 @@
 Базы данных: PostgreSQL, SQL <br> 
 <img src="https://github.com/Maestro8701/Maestro8701/blob/main/postgresql.png" alt="PostgreSQL"> 
 <img src="https://github.com/Maestro8701/Maestro8701/blob/main/SQL.png" alt="SQL"> <br>
-Графические движки: Unreal Engine
+Графические движки: Unreal Engine <br>
+<img src="https://github.com/Maestro8701/Maestro8701/blob/main/unreal-engine.png" alt="Unreal Engine"> <br>
 
 Система автоматизации сборки: CMake
 
