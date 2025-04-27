@@ -16,7 +16,7 @@
 <img src="https://github.com/Maestro8701/Maestro8701/blob/main/QT.png" alt="QT"> <br>
 Базы данных: PostgreSQL, SQL <br> 
 <img src="https://github.com/Maestro8701/Maestro8701/blob/main/postgresql.png" alt="PostgreSQL"> 
-<img src="https://github.com/Maestro8701/Maestro8701/blob/main/SQL.png" alt="SQL> <br>
+<img src="https://github.com/Maestro8701/Maestro8701/blob/main/SQL.png" alt="SQL"> <br>
 Графические движки: Unreal Engine
 
 Система автоматизации сборки: CMake
