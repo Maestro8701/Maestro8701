@@ -20,10 +20,10 @@
 Графические движки: Unreal Engine <br>
 <img src="https://github.com/Maestro8701/Maestro8701/blob/main/unreal-engine.png" alt="Unreal Engine"> <br>
 Система автоматизации сборки: CMake <br>
-<img https://github.com/Maestro8701/Maestro8701/blob/main/cmake.png alt="CMake"> <br>
+<img src="https://github.com/Maestro8701/Maestro8701/blob/main/cmake.png alt="CMake"> <br>
 Другие инструменты: Git, UML <br>
-<img https://github.com/Maestro8701/Maestro8701/blob/main/git.png alt="Git"> 
-<img https://github.com/Maestro8701/Maestro8701/blob/main/UML64.png alt="Git"> <br>
+<img src="https://github.com/Maestro8701/Maestro8701/blob/main/git.png alt="Git"> 
+<img src="https://github.com/Maestro8701/Maestro8701/blob/main/UML64.png alt="UML"> <br>
 Дополнительные библиотеки C++: SFML, Boost
 
 ## Контакты
