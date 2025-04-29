@@ -24,7 +24,7 @@
 Другие инструменты: Git, UML <br>
 <img src="https://github.com/Maestro8701/Maestro8701/blob/main/git.png" alt="Git"> 
 <img src="https://github.com/Maestro8701/Maestro8701/blob/main/UML64.png" alt="UML"> <br>
-Дополнительные библиотеки C++: SFML, Boost
+Дополнительные библиотеки C++: SFML, Boost, OpenCV
 
 ## Контакты
 - Почта: [maestro8701@gmail.com](maestro8701@gmail.com)
