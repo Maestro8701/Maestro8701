@@ -4,7 +4,7 @@
 [![Добро пожаловать в мой профиль](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&background=FF8B3A00&center=true&width=870&height=100&lines=Добро+пожаловать+в+мой+профиль)](https://git.io/typing-svg)
 [![Давай кодировать вместе!](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&background=FF8B3A00&center=true&width=870&height=100&lines=Давай+кодировать+вместе!)](https://git.io/typing-svg)
 
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
     <img src="https://github.com/Maestro8701/Maestro8701/blob/main/Error.gif" alt="Листайте вниз" style="max-width: 300px;"/>
 </div>
 
